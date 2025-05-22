@@ -1,0 +1,30 @@
+[submodule "external/stm32h7xx_hal_driver"]
+	path = external/stm32h7xx_hal_driver
+	url = https://github.com/STMicroelectronics/stm32h7xx_hal_driver.git
+[submodule "external/stm32-lan8742"]
+	path = external/stm32-lan8742
+	url = https://github.com/STMicroelectronics/stm32-lan8742.git
+[submodule "external/stm32_mw_usb_device"]
+	path = external/stm32_mw_usb_device
+	url = https://github.com/STMicroelectronics/stm32_mw_usb_device.git
+[submodule "external/cmsis_core"]
+	path = external/cmsis_core
+	url = https://github.com/STMicroelectronics/cmsis_core.git
+[submodule "external/stm32_mw_lwip"]
+	path = external/stm32_mw_lwip
+	url = https://github.com/STMicroelectronics/stm32_mw_lwip.git
+[submodule "external/cmsis_device_h7"]
+	path = external/cmsis_device_h7
+	url = https://github.com/STMicroelectronics/cmsis_device_h7.git
+[submodule "external/wolfssl"]
+	path = external/wolfssl
+	url = https://github.com/wolfSSL/wolfssl.git
+[submodule "external/wolfssh"]
+	path = external/wolfssh
+	url = https://github.com/wolfSSL/wolfssh.git
+[submodule "external/stm32_mw_freertos"]
+	path = external/stm32_mw_freertos
+	url = https://github.com/STMicroelectronics/stm32_mw_freertos.git
+[submodule "external/cJSON"]
+	path = external/cJSON
+	url = https://github.com/DaveGamble/cJSON.git
